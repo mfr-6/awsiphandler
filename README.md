@@ -1,5 +1,10 @@
 ## Example usage:
 
+### Sync all dependencies with UV
+```
+uv sync
+```
+
 ### Create an instance of AwsIpHandler:
 ```
 >>> from src.aws_ipcollector.handler import AwsIpHandler
